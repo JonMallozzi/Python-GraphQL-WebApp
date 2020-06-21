@@ -9,3 +9,6 @@ CREATE TABLE users(
 
 INSERT INTO users (username, password, email, dateOfBirth)
        VALUES ('Aerith','password123','Aerith@company.com','1985-02-07');
+
+INSERT INTO pythongraphql_users (username, password, email, "dateCreated", "dateOfBirth")  
+        VALUES ('Aerith','password123','Aerith@company.com', current_timestamp, '1985-02-07'); 
