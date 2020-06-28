@@ -1,3 +1,5 @@
+# A test demo graphene app to learn/understand the graphene library
+
 import graphene
 import json
 from datetime import date, datetime

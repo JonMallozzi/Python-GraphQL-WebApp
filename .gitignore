@@ -1,2 +1,12 @@
 .vscode/
 DjangoBackend/DjangoNotes.txt
+
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+ReactWebsite/node_modules
+ReactWebsite/bower_components

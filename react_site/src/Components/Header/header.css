@@ -1,0 +1,13 @@
+.Home{
+    position: absolute;
+    float: left;
+    left: 2rem;
+    color: #61dafb;
+  }
+  
+  .Login{
+    position: absolute;
+    float: right;
+    right: 2rem;
+    color: #61dafb;
+  }
